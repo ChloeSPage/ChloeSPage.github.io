@@ -1,2 +1,2 @@
-# ChloeSPage.github.io
+# ChloeSAPage.github.io
 My website hosted using GitHub Pages
