@@ -1,3 +1,9 @@
-ul {
+header {
+    background-color: var(--background-yellow);
+}
+
+ul,
+li {
     list-style-type: none;
+    display: inline;
 }
